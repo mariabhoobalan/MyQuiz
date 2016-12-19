@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">My Quiz</string>
+    <string name="Title">Comics Quiz</string>
+    <string name="Smbt">Submit</string>
+    <string name="Rst">Reset</string>
+    <string name="Wlcome">    Welcome!!!</string>
+    <string name="Qz6">    PixQuiz</string>
+
+    <!--Questions for Quiz-->
+    <string name="Q3">3. Batmans side kick</string>
+    <string name="Q2">2. Calvins imaginary tigers name is?</string>
+    <string name="Q1">1. Capt. Americas shield is made up of?</string>
+    <string name="Q4">4. Which character hails from Wakanda?</string>
+    <string name="Q5">5. Which of the following comes from DC world?</string>
+    <string name="Q6">6. Identify the superhero?</string>
+    <string name="Q7">7. Super heroes with cape?</string>
+    <string name="Q8">8. Which villain possessed the Infinity Gems?</string>
+    <string name="Q9">9. Your friendly neighbourhood _________?</string>
+    <string name="Q10">10. What gives strength to Popeye?</string>
+
+    <string name="Q1a">Vibranium</string>
+    <string name="Q1b">Adamantium</string>
+    <string name="Q1c">Cromium</string>
+    <string name="Q4a">Wolverine</string>
+    <string name="Q4b">Black Panther</string>
+    <string name="Q4c">BatMan</string>
+    <string name="Q5a">Flash</string>
+    <string name="Q5b">IronMan</string>
+    <string name="Q5c">BatMan</string>
+    <string name="Q6a">WonderWoman</string>
+    <string name="Q6b">WolfWoman</string>
+    <string name="Q6c">Wolverine</string>
+    <string name="Q7a">IronMan</string>
+    <string name="Q7b">BatMan</string>
+    <string name="Q7c">SuperMan</string>
+    <string name="Q8a">Galactus</string>
+    <string name="Q8b">Thanos</string>
+    <string name="Q8c">Loki</string>
+
+    <!--Answers for Quiz-->
+    <string name="A1">Vibranium</string>
+    <string name="A2">HOBBES</string>
+    <string name="A3">ROBIN</string>
+    <string name="A4">Black Panther</string>
+    <string name="A5">6</string>
+    <string name="A6">WonderWoman</string>
+    <string name="A7">8</string>
+    <string name="A8">Thanos</string>
+    <string name="A9">SPIDERMAN</string>
+    <string name="A10">SPINACH</string>
+</resources>
